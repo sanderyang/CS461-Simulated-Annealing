@@ -1,9 +1,0 @@
-﻿  Source.cpp
-C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Source.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Source.cpp(234,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Source.cpp(288,32): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Source.cpp(299,32): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Source.cpp(310,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Source.cpp(295): warning C4715: 'Roommates::getRoomNumber': not all control paths return a value
-C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Source.cpp(304): warning C4715: 'Roommates::getIndexNumber': not all control paths return a value
-  Assignment2Syang.vcxproj -> C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\Debug\Assignment2Syang.exe

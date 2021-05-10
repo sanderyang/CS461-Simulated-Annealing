@@ -1,0 +1,58 @@
+Final Results:
+Initial T value: 10000
+Cooling schedule: 0.95
+Average Score: 69
+Best Score: 28
+Worst Score: 115
+
+Final Room Assignment:
+Room #1   Compatibility Score: 59   162 160 94 45 
+Room #2   Compatibility Score: 75   20 72 122 136 
+Room #3   Compatibility Score: 28   92 41 188 195 
+Room #4   Compatibility Score: 50   134 32 95 104 
+Room #5   Compatibility Score: 75   132 123 10 115 
+Room #6   Compatibility Score: 103   18 78 81 80 
+Room #7   Compatibility Score: 65   119 166 14 141 
+Room #8   Compatibility Score: 60   69 145 12 177 
+Room #9   Compatibility Score: 71   93 101 97 58 
+Room #10   Compatibility Score: 57   108 151 4 71 
+Room #11   Compatibility Score: 61   147 112 16 3 
+Room #12   Compatibility Score: 47   53 109 90 113 
+Room #13   Compatibility Score: 61   19 49 88 159 
+Room #14   Compatibility Score: 115   196 128 17 186 
+Room #15   Compatibility Score: 73   50 164 199 130 
+Room #16   Compatibility Score: 80   35 114 111 31 
+Room #17   Compatibility Score: 61   189 172 140 33 
+Room #18   Compatibility Score: 84   146 46 91 193 
+Room #19   Compatibility Score: 92   103 63 98 127 
+Room #20   Compatibility Score: 60   67 48 30 175 
+Room #21   Compatibility Score: 64   129 60 167 51 
+Room #22   Compatibility Score: 77   38 22 105 179 
+Room #23   Compatibility Score: 38   74 24 99 197 
+Room #24   Compatibility Score: 77   182 86 117 198 
+Room #25   Compatibility Score: 63   192 13 149 9 
+Room #26   Compatibility Score: 79   125 39 68 144 
+Room #27   Compatibility Score: 88   73 27 100 150 
+Room #28   Compatibility Score: 52   75 168 5 62 
+Room #29   Compatibility Score: 53   70 42 120 52 
+Room #30   Compatibility Score: 78   185 156 79 26 
+Room #31   Compatibility Score: 62   77 96 169 163 
+Room #32   Compatibility Score: 65   64 173 23 28 
+Room #33   Compatibility Score: 63   1 191 102 47 
+Room #34   Compatibility Score: 75   54 36 25 143 
+Room #35   Compatibility Score: 71   131 155 110 118 
+Room #36   Compatibility Score: 57   59 106 158 43 
+Room #37   Compatibility Score: 79   66 56 139 116 
+Room #38   Compatibility Score: 73   126 21 57 174 
+Room #39   Compatibility Score: 110   178 190 184 7 
+Room #40   Compatibility Score: 92   181 180 142 76 
+Room #41   Compatibility Score: 59   83 135 82 138 
+Room #42   Compatibility Score: 68   133 15 171 165 
+Room #43   Compatibility Score: 68   2 84 153 176 
+Room #44   Compatibility Score: 65   170 8 121 55 
+Room #45   Compatibility Score: 61   161 194 124 37 
+Room #46   Compatibility Score: 79   44 61 11 89 
+Room #47   Compatibility Score: 81   65 154 157 107 
+Room #48   Compatibility Score: 66   85 87 183 152 
+Room #49   Compatibility Score: 54   6 29 137 148 
+Room #50   Compatibility Score: 66   40 34 187 200 

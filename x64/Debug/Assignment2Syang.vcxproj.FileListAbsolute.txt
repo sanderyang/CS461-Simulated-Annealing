@@ -1,0 +1,2 @@
+C:\Users\Sandy\Desktop\AI\Assignment 2 Syang\Assignment2Syang\x64\Debug\Assignment2Syang.exe
+C:\Users\Sandy\Documents\GitHub\CS461-Simulated-Annealing\x64\Debug\Assignment2Syang.exe
